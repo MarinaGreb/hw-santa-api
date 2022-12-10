@@ -15,4 +15,4 @@
 [![CI](https://github.com/MarinaGreb/hw-santa-api/actions/workflows/blank.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/MarinaGreb/hw-santa-api/actions/workflows/blank.yml)
 
 ##
-![Build Status]((https://github.com/MarinaGreb/hw-santa-api/actions/workflows/blank.yml/badge.svg)](https://github.com/MarinaGreb/hw-santa-api/actions/workflows/blank.yml)
+[![Build Status]((https://github.com/MarinaGreb/hw-santa-api/actions/workflows/blank.yml/badge.svg)](https://github.com/MarinaGreb/hw-santa-api/actions/workflows/blank.yml)
